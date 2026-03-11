@@ -8,8 +8,6 @@ O objetivo do projeto foi criar uma interface web simples para auxiliar na apres
 
 ## 🚀 Tecnologias utilizadas
 
-- React
-- Vite
 - JavaScript
 - HTML
 - CSS
